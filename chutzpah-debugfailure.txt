@@ -1,0 +1,48 @@
+devenv.exe Information: 0 : Time:13:54:58.8919219; Thread:1; Message:Begin GetTestContainers
+devenv.exe Information: 0 : Time:13:54:58.8929194; Thread:1; Message:End GetTestContainers
+devenv.exe Information: 0 : Time:13:54:58.8939196; Thread:1; Message:Test container comparision 14/08/2020 14:49:27 vs 14/08/2020 14:49:27 for c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.ts
+Informational: ---------- Starting test run ----------
+Warning: Multiple versions of same extension found. Selecting the highest version.
+  Chutzpah.VS2012.TestAdapter : 4.4.10.0
+TableControl: QueueUpdate 17/08/2020 13:54:59:276
+TableControl: About to update entries 17/08/2020 13:54:59:385
+TableControl: Updating entries 17/08/2020 13:54:59:386
+TableControl: Updating entries (UI thread) 17/08/2020 13:54:59:386
+TableControl: Refreshing UI 17/08/2020 13:54:59:387
+testhost.x86.exe Information: 0 : Time:13:55:01.2109582; Thread:14; Message:Chutzpah.json file found at c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\chutzpah.json given starting directory c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts
+testhost.x86.exe Information: 0 : Time:13:55:01.2549586; Thread:14; Message:Defaulting the RootPath to the drive root of the chutzpah.json file
+testhost.x86.exe Information: 0 : Time:13:55:01.2929594; Thread:14; Message:Chutzpah run started in mode Execution with parallelism set to 1
+testhost.x86.exe Information: 0 : Time:13:55:01.3529586; Thread:14; Message:Trying to build test context for c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.ts
+testhost.x86.exe Information: 0 : Time:13:55:01.3869580; Thread:14; Message:Building test context for c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.ts
+testhost.x86.exe Information: 0 : Time:13:55:01.4209628; Thread:14; Message:Test file c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.ts matched folder c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts with includes *\*.ts and excludes *\*.d.ts patterns from settings file
+testhost.x86.exe Information: 0 : Time:13:55:01.4659621; Thread:14; Message:Added framework dependency 'C:\Users\jswallow\source\repos\ChutzpahTest2\packages\Chutzpah.4.4.10\tools\ChutzpahTestHarnessFiles\jasmine\v2\jasmine_favicon.png' to referenced files
+testhost.x86.exe Information: 0 : Time:13:55:01.4929596; Thread:14; Message:Added framework dependency 'C:\Users\jswallow\source\repos\ChutzpahTest2\packages\Chutzpah.4.4.10\tools\ChutzpahTestHarnessFiles\jasmine\v2\boot.js' to referenced files
+testhost.x86.exe Information: 0 : Time:13:55:01.5209596; Thread:14; Message:Added framework dependency 'C:\Users\jswallow\source\repos\ChutzpahTest2\packages\Chutzpah.4.4.10\tools\ChutzpahTestHarnessFiles\jasmine\v2\jasmine-html.js' to referenced files
+testhost.x86.exe Information: 0 : Time:13:55:01.5539607; Thread:14; Message:Added framework dependency 'C:\Users\jswallow\source\repos\ChutzpahTest2\packages\Chutzpah.4.4.10\tools\ChutzpahTestHarnessFiles\jasmine\v2\jasmine.js' to referenced files
+testhost.x86.exe Information: 0 : Time:13:55:01.5839633; Thread:14; Message:Added framework dependency 'C:\Users\jswallow\source\repos\ChutzpahTest2\packages\Chutzpah.4.4.10\tools\ChutzpahTestHarnessFiles\jasmine\v2\jasmine.css' to referenced files
+testhost.x86.exe Information: 0 : Time:13:55:01.6159588; Thread:14; Message:Added framework dependency 'C:\Users\jswallow\source\repos\ChutzpahTest2\packages\Chutzpah.4.4.10\tools\ChutzpahTestHarnessFiles\chutzpah_boot.js' to referenced files
+testhost.x86.exe Information: 0 : Time:13:55:01.6489609; Thread:14; Message:Finished building test context for c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.ts
+testhost.x86.exe Information: 0 : Time:13:55:01.6929600; Thread:14; Message:Skipping batch compile since all files are update to date for c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\chutzpah.json
+testhost.x86.exe Information: 0 : Time:13:55:01.7239686; Thread:14; Message:Found generated path for c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.ts at c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.js
+testhost.x86.exe Information: 0 : Time:13:55:01.8269606; Thread:14; Message:Creating Web Server Host at path c:\ and port 9876
+testhost.x86.exe Information: 0 : Time:13:55:02.7669617; Thread:14; Message:Start test run for c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.ts in Execution mode
+testhost.x86.exe Information: 0 : Time:13:55:02.8149631; Thread:14; Message:Using builtin Test Harness from C:\Users\jswallow\source\repos\ChutzpahTest2\packages\Chutzpah.4.4.10\tools\ChutzpahTestHarnessFiles\jasmine\v2\jasmine.html
+testhost.x86.exe Information: 0 : Time:13:55:02.8839621; Thread:14; Message:Launching custom test on test harness 'c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\_Chutzpah.ca2581215930830d6ae529bc6dfd3dc2e2908df8.test.html' for file 'c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.ts'
+testhost.x86.exe Information: 0 : Time:13:55:13.5801335; Thread:14; Message:Finished test run for c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.ts in Execution mode
+testhost.x86.exe Information: 0 : Time:13:55:13.6216538; Thread:14; Message:Chutzpah run finished with 0 passed, 0 failed and 0 errors
+testhost.x86.exe Information: 0 : Time:13:55:13.6516544; Thread:14; Message:Chutzpah.json file cache cleared
+testhost.x86.exe Information: 0 : Time:13:55:13.6806541; Thread:14; Message:End Test Adapter Run Tests
+Informational: ========== Test run finished: 0 Tests run in 14.9 sec (0 Passed, 0 Failed, 0 Skipped) ==========
+devenv.exe Information: 0 : Time:13:55:14.1116563; Thread:1; Message:Begin selecting potential test files from project ''
+devenv.exe Information: 0 : Time:13:55:14.1126564; Thread:1; Message:End selecting potential test files from project ''
+devenv.exe Information: 0 : Time:13:55:14.1136550; Thread:1; Message:Project Loaded: ''
+devenv.exe Information: 0 : Time:13:55:14.1156552; Thread:1; Message:Begin UpdateTestContainersAndFileWatchers
+devenv.exe Information: 0 : Time:13:55:14.1166552; Thread:1; Message:End UpdateTestContainersAndFileWatchers
+devenv.exe Information: 0 : Time:13:55:14.1846572; Thread:73; Message:Begin GetTestContainers
+devenv.exe Information: 0 : Time:13:55:14.1866563; Thread:73; Message:End GetTestContainers
+devenv.exe Information: 0 : Time:13:55:14.1886571; Thread:73; Message:Test container comparision 14/08/2020 14:49:27 vs 14/08/2020 14:49:27 for c:\users\jswallow\source\repos\chutzpahtest2\chutzpahtest2\scripts\basic-jasmine.ts
+TableControl: QueueUpdate 17/08/2020 13:55:14:216
+TableControl: About to update entries 17/08/2020 13:55:14:323
+TableControl: Updating entries 17/08/2020 13:55:14:324
+TableControl: Updating entries (UI thread) 17/08/2020 13:55:14:325
+TableControl: Refreshing UI 17/08/2020 13:55:14:325
