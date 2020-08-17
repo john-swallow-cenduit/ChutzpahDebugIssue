@@ -4,6 +4,10 @@
 Debugging with Server mode almost always fails.
 It looks like the test harness is completing and the web server is being closed BEFORE VS has time to get in and connect.
 
+Running debug from the Context Menu "Run Chutzpah with Debugger" works just fine in the exact same code base and configuration.
+
+I'm guessing this is about how the lifecycle of the Web Server is controlled but I would naturally expect the two ways of debugging to work in the same way (and the following would appear to agree: https://github.com/mmanela/chutzpah/wiki/Debugging-Unit-Tests).
+
 ## Details
 
 - Microsoft Visual Studio Enterprise 2019
