@@ -6,20 +6,20 @@ It looks like the test harness is completing and the web server is being closed 
 
 ## Details
 
-Microsoft Visual Studio Enterprise 2019
-Version 16.7.1
-VisualStudio.16.Release/16.7.1+30406.217
-Microsoft .NET Framework
-Version 4.8.03752
+- Microsoft Visual Studio Enterprise 2019
+- Version 16.7.1
+- VisualStudio.16.Release/16.7.1+30406.217
+- Microsoft .NET Framework
+- Version 4.8.03752
 
-Chutzpah 4.4.10
-Chutzpah Context Menu   4.4.9
-Chutzpah Test Adapter for Visual Studio 2012   4.4.9
+- Chutzpah 4.4.10
+- Chutzpah Context Menu   4.4.9
+- Chutzpah Test Adapter for Visual Studio 2012   4.4.9
 
-IE 11.959.18362.0
+- IE 11.959.18362.0
 
-Typescript 3.9
-Output EcmaScript5
+- Typescript 3.9
+- Output EcmaScript5
 
 Solution is set to run a single test in PhantomJS (default) but with Web Server Mode turned on.
 - Build the solution so that Chutzpah picks up the single test.
