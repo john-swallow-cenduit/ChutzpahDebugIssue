@@ -1,0 +1,24 @@
+{
+  "Framework": "jasmine",
+  "Compile": {
+    "Mode": "External",
+    "Extensions": [ ".ts" ],
+    "ExtensionsWithNoOutput": [ ".d.ts", ".mapping.d.ts" ]
+
+  },
+  "TestHarnessLocationMode": "SettingsFileAdjacent",
+  "EnableTracing": true,
+  "TraceFilePath": "trace.txt",
+  "References": [
+  ],
+  "Tests": [
+    {
+      "Path": "",
+      "Includes": [ "*/*.ts" ],
+      "Excludes": [ "*/*.d.ts" ]
+    }
+  ],
+  "Server": {
+    "Enabled": true
+  }
+}
